@@ -1,0 +1,6 @@
+# Files to skip
+R.bat
+
+# Directory to skip
+Other/
+
